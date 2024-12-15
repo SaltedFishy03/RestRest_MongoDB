@@ -1,0 +1,6 @@
+@ResRest_MongoDB_HostAddress = http://localhost:5141
+
+GET {{ResRest_MongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
